@@ -1,5 +1,5 @@
 {
-    "name": "zeatan/oid-connect",
+    "name": "countnoobula/oid-connect",
     "description": "OpenID-Connect/OAuth2 Social Login with LOA & Federation builtin",
     "keywords": ["openid","oauth2", "oauth", "oidc","socialite","laravel"],
     "require": {
